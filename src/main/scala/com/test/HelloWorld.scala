@@ -1,4 +1,4 @@
-package com.rbc.reid
+package com.test
 
 object HelloWorld {
 
