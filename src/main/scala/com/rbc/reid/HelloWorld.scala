@@ -1,6 +1,6 @@
-package test
+package com.rbc.reid
 
-object Main {
+object HelloWorld {
 
   def main(args: Array[String]): Unit = {
     println("Hello world!")
